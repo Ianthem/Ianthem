@@ -6,7 +6,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-# Welcome to my Data_Portfolio
+# Welcome!
 
 ## 💫 About Me:
 
