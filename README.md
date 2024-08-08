@@ -4,13 +4,13 @@
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me: ianthemalpass@yahoo.com 
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: 
+- ⚡ Fun fact: The sky is white, go figure.
 
 <!---
 Ianthem/Ianthem is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 
-**##What's included##**
+**What's included**
 
-My repository includes visualisation and reports done using Power Bi, Tableau and Excel
+My repository includes visualisations and reports done using Power Bi, Tableau and Excel
